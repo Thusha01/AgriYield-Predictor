@@ -166,7 +166,7 @@ st.markdown(
     unsafe_allow_html=True
 )
 st.markdown(
-    "<h4 class='centered-subtitle'>AI-based paddy production forecasting for Sri Lankan districts</h4>",
+    "<h4 class='centered-subtitle'>Paddy production forecasting for Sri Lankan districts</h4>",
     unsafe_allow_html=True
 )
 
